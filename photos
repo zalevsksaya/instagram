@@ -1,0 +1,360 @@
+[
+{
+  "id": 1,
+  "likes": 6,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "collage", "father", "mother", "cars", "filters", "me", "samara"
+          ]
+},
+
+{
+  "id": 2,
+  "likes": 7,
+  "comments": 0,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "me", "collage", "boys", "girls", "concert", "orange", "flower", "hugs", "dolgopa", "university", "mipt"
+          ]
+},
+
+{
+  "id": 3,
+  "likes": 4,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "me", "selfie", "glasses", "headphones", "airport", "samara"
+          ]
+},
+
+{
+  "id": 4,
+  "likes": 5,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "dasha", "collage", "food", "cooking", "dolgopa"
+          ]
+},
+
+{
+  "id": 5,
+  "likes": 4,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "me", "selfie", "glasses", "headphones", "university", "mipt", "lecture", "pandora", "script", "dolgopa"
+          ]
+},
+
+{
+  "id": 6,
+  "likes": 17,
+  "comments": 6,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "me", "black", "makeup", "boobs", "dolgopa", "kds", "2ka"
+          ]
+},
+
+  {
+  "id": 7,
+  "likes": 2,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "food", "home", "berry", "honey", "home", "samara", "plate"
+          ]
+},
+ {
+  "id": 8,
+  "likes": 7,
+  "comments": 1,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "tickets", "jt", "concert", "dolgopa"
+          ]
+},
+
+  {
+  "id": 9,
+  "likes": 5,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "university", "me", "selfie", "mirror", "computer", "mipt", "dolgopa"
+          ]
+},
+
+  {
+  "id": 10,
+  "likes": 5,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "animal", "parrot", "colledge", "blue", "food", "snow", "samara", "home"
+          ]
+},
+
+  {
+  "id": 11,
+  "likes": 13,
+  "comments": 1,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "selfie", "me", "moscow", "hat", "wolf", "smiles"
+          ]
+},
+
+  {
+  "id": 12,
+  "likes": 4,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "food", "2ka", "apple", "caramel", "sugar", "hand", "smiles", "dolgopa"
+          ]
+},
+
+  {
+  "id": 13,
+  "likes": 3,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "smiles", "present", "tie", "2ka", "dolgopa"
+          ]
+},
+
+  {
+  "id": 14,
+  "likes": 5,
+  "comments": 1,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "food", "table", "dolgopa", "shokoladnica", "dolgopa", "tea", "salad", "cafe"
+          ]
+},
+
+  {
+  "id": 15,
+  "likes": 8,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "present", "collage", "baloons", "samara", "home", "parents"
+          ]
+},
+
+  {
+  "id": 16,
+  "likes": 5,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "plate", "home", "fruit", "stars", "smiles", "samara", "berry"
+          ]
+},
+
+  {
+  "id": 17,
+  "likes": 5,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "cofe", "cup", "university", "ranepa", "moscow"
+          ]
+},
+
+  {
+  "id": 18,
+  "likes": 5,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "books", "mipt", "university", "manga", "dolgopa"
+          ]
+},
+
+  {
+  "id": 19,
+  "likes": 3,
+  "comments": 0,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "mipt", "university", "paper", "scrpit", "chgk", "dolgopa"
+          ]
+},
+
+  {
+  "id": 20,
+  "likes": 10,
+  "comments": 0,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "me", "selfie", "glasses", "headphones", "moscow"
+          ]
+},
+
+  {
+  "id": 21,
+  "likes": 12,
+  "comments": 0,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "me", "selfie", "glasses", "bowtie", "cafe", "dolgopa"
+          ]
+},
+
+  {
+  "id": 22,
+  "likes": 14,
+  "comments": 1,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "food", "home", "plate", "samara", "chicken", "berry"
+          ]
+},
+
+  {
+  "id": 23,
+  "likes":  15,
+  "comments": 2,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "me", "selfie", "mother", "father", "hat", "home", "samara"
+          ]
+},
+
+  {
+  "id": 24,
+  "likes": 8,
+  "comments": 0,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "chgk", "club", "2ka", "peolpe", "boy", "girl", "hbfivt", "mipt", "dolgopa"
+          ]
+},
+
+  {
+  "id": 25,
+  "likes": 8,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "nature", "rails", "sky", "morning", "dolgopa", "novodachnaya", "station"
+          ]
+},
+
+  {
+  "id": 26,
+  "likes": 16,
+  "comments": 0,
+  "tags": true,
+  "geotag":false,
+  "words":
+          [
+            "curling", "sport", "moscow"
+          ]
+},
+
+  {
+  "id": 27,
+  "likes": 11,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "morning", "rail", "novodachnaya", "dolgopa", "station", "sky"
+          ]
+},
+
+  {
+  "id": 28,
+  "likes": 7,
+  "comments": 2,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "lecture", "teacher", "blackboard", "university", "mipt", "dolgopa"
+          ]
+},
+
+  {
+  "id": 29,
+  "likes": 12,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "sunset", "bridge", "sun", "dolgopa", "sky", "sky", "river", "water"
+          ]
+},
+
+  {
+  "id": 30,
+  "likes": 11,
+  "comments": 2,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "car", "white", "samara", "small", "home"
+          ]
+}
+  ]
