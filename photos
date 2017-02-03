@@ -1,0 +1,15 @@
+[
+  {
+  "id": 1,
+  "likes": 6,
+  "comments": 0,
+  "tags": false,
+  "geotag":false,
+  "words":
+          [
+            "me", "father", "mother", "shop", "cars", "samara"
+          ]
+  },
+
+
+]
